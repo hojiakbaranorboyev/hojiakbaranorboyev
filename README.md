@@ -1,4 +1,4 @@
-- <span style="font-size: 20px">Hi, I’m Hojiakbar Anorboyev</span>
+- <h3 style="margin: 0;">Hi, I’m Hojiakbar Anorboyev</h3>
 - 👀 I’m interested in Frontend engineering
 - 🌱 I’m currently learning typeScript and nodeJS
 
