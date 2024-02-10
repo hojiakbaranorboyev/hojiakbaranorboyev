@@ -1,7 +1,7 @@
 <h3 style="margin: 0;">Hi there 👋 I am Hojiakbar Anorboyev</h3>
 
 - I’m currently learning typeScript and nodeJS
-- I’m currently working as a frontend engineer at Ildam technologies
+- I’m currently working as a frontend engineer at YouCloud
 
 You can reach out to me via hojiakbardev@gmail.com
 <!---
